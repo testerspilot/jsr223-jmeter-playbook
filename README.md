@@ -8,8 +8,6 @@ This repository contains a sample script for Apache JMeter that uses JSR223 scri
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
